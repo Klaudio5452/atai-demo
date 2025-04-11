@@ -118,8 +118,8 @@ export default function App() {
 
   return (
     <div style={{ minHeight: "100vh", backgroundColor: "#000", color: "#fff", padding: "2rem" }}>
-      <div style={{ maxWidth: "1000px", margin: "0 auto", textAlign: "center" }}>
-        <h1 style={{ fontSize: "3rem", color: "#60a5fa", fontWeight: "bold", marginBottom: "0.5rem" }}>ATAI</h1>
+     <div style={{ width: "100%", maxWidth: "1600px", margin: "0 auto", textAlign: "center" }}>
+      <h1 style={{ fontSize: "3rem", color: "#60a5fa", fontWeight: "bold", marginBottom: "0.5rem" }}>ATAI</h1>
         <p style={{ color: "#93c5fd", fontStyle: "italic", marginBottom: "2rem" }}>
           "Welcome, traveler. I am ATAI, your intelligent travel assistant."
         </p>
